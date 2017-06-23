@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14138" started-at="2017-06-22T23:40:46Z" finished-at="2017-06-22T23:41:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14138" started-at="2017-06-22T23:40:46Z" finished-at="2017-06-22T23:41:00Z">
+      <class name="br.selenium.test.BuscaCep">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:br.selenium.test.BuscaCep@7085bdee]" name="setUp" is-config="true" duration-ms="12170" started-at="2017-06-22T20:40:46Z" finished-at="2017-06-22T20:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:br.selenium.test.BuscaCep@7085bdee]" name="firstTest" duration-ms="1920" started-at="2017-06-22T20:40:58Z" finished-at="2017-06-22T20:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- br.selenium.test.BuscaCep -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
